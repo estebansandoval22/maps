@@ -1,0 +1,17 @@
+{
+  "name": "maps",
+  "authors": [
+    "¨estebansandoval22¨ <¨esandovals@ucenfotec.ac.cr¨>"
+  ],
+  "description": "first step in maps",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
